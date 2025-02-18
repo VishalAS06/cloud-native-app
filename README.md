@@ -102,10 +102,5 @@ This project is **MIT Licensed**.
 ## 🤝 Contributing
 Feel free to fork, improve, and submit pull requests. Suggestions are always welcome!
 
----
-
-## 📞 Contact
-📧 Email: your-email@example.com  
-🌍 Website: [your-website.com](https://your-website.com)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+  
 
